@@ -1,8 +1,10 @@
 # SongPreview
- 
-Just a quick mod that plays the song of the selected track
-
-- Starts song in the middle
+Plays the song of the selected track in the middle
 
 ## Dependencies:
-[TrombLoader](https://github.com/NyxTheShield/TrombLoader)    
+- [BaboonAPI](https://github.com/tc-mods/BaboonAPI)
+
+## Changelog:
+v1.0.5
+- Trombloader v2 compatibility
+- Play the full song if under a minute long
