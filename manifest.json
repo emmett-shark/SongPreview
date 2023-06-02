@@ -1,11 +1,11 @@
 {
     "name": "SongPreview",
     "description": "Plays the song of the selected track in the middle",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "dependencies": [
       "BepInEx-BepInExPack_TromboneChamp-5.4.21",
-      "TromboneChamps-BaboonAPI-2.2.1",
-      "TromboneChamps-TrombLoader-2.0.0"
+      "TromboneChamps-BaboonAPI-2.3.0",
+      "TromboneChamps-TrombLoader-2.0.1"
     ],
     "website_url": "https://github.com/emmett-shark/SongPreview/"
   }
